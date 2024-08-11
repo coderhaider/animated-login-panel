@@ -17,8 +17,8 @@ body{
 }
 
 .container{
-    width: 30%;
-    height: 40%;
+    width: 380px;
+    height: 400px;
     backdrop-filter: blur(10px);
     border-radius: 20px;
     padding: 1% 2%;
